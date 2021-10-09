@@ -1,6 +1,6 @@
 <h1>Laravel Burger</h1>
 
-Laravel Burger is simple hamburger order app made with laravel <br>
+Laravel Burger is simple hamburger ordering app made with laravel <br>
 
 Needs:<br>
 php 8.0<br>
