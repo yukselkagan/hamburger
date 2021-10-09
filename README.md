@@ -1,5 +1,10 @@
 <h1>Laravel Burger</h1>
 
+Needs:
+php 8.0
+laravel 8.62
+mysql
+
 Download files, open console, cd project folder, write
 
 
