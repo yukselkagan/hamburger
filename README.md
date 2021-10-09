@@ -1,6 +1,6 @@
 <h1>Laravel Burger</h1>
 
-Download files, open console, cd project folder
+Download files, open console, cd project folder, write
 
 
 ```
