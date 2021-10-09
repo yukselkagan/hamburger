@@ -1,9 +1,11 @@
 <h1>Laravel Burger</h1>
 
-Needs:
-php 8.0
-laravel 8.62
-mysql
+Laravel Burger is simple hamburger order app made with laravel <br>
+
+Needs:<br>
+php 8.0<br>
+laravel 8.62<br>
+mysql<br>
 
 Download files, open console, cd project folder, write
 
